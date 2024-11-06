@@ -1,7 +1,7 @@
 
 # Ng-Opendraw
 
-Opendraw is an angular component that manipulates the canvas for drawing content across all devices. It supports touch/pen/mouse devices. Built with Angular version 8.2.14.
+Opendraw is an angular component that manipulates the canvas for drawing content across all devices. It supports touch/pen/mouse devices. Updated to be compatible with Angular 16+.
 
 # NPM
 
@@ -24,3 +24,4 @@ This project is under the MIT license.
 # Author(s)
 
 [RLoris](https://github.com/RLoris)
+[ErosPingani1](https://github.com/ErosPingani1)
