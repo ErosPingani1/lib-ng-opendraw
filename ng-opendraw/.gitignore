@@ -2,6 +2,7 @@
 
 # Node modules
 .node_modules
+/projects/ng-opendraw/node_modules
 
 # Package lock
 package-lock.json

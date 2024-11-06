@@ -128,7 +128,7 @@
       "prefix": "lib",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:application",
+          "builder": "@angular-devkit/build-ng-packagr:build",
           "options": {
             "tsConfig": "projects/ng-opendraw/tsconfig.lib.json",
             "project": "projects/ng-opendraw/ng-package.json"
