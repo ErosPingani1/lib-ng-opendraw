@@ -15,6 +15,8 @@ Try it out here: [DEMO](https://rloris.github.io/lib-ng-opendraw/) (original rep
 
 - 2.0.0: Angular 17.3.12
 
+- 3.0.0: Angular 18.2.11
+
 # Features
 
 * Draw with different devices (mouse|pen|touch)

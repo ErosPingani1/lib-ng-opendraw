@@ -4,11 +4,11 @@
   "description": "Opendraw is an angular component that manipulates the canvas for drawing content across all devices",
   "license": "MIT",
   "keywords": ["canvas", "draw", "touch", "pen", "mouse", "color", "image", "shapes", "circle", "rectangle", "line"],
-  "displayName": "Angular OpenDraw Library (A17+)",
+  "displayName": "Angular OpenDraw Library (A18+)",
   "repository": {"type": "github", "url": "https://github.com/ErosPingani1/lib-ng-opendraw"},
-  "version": "2.0.0",
+  "version": "3.0.0",
   "peerDependencies": {
-    "@angular/common": "^17.3.12",
-    "@angular/core": "^17.3.12"
+    "@angular/common": "^18.2.11",
+    "@angular/core": "^18.2.11"
   }
 }
