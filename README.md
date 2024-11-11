@@ -5,7 +5,7 @@ Opendraw is an angular component that manipulates the canvas for drawing content
 
 # NPM
 
-You can integrate opendraw in your project using `npm i ng-opendraw --save`. For more documentation about opendraw check out the readme in the projects/opendraw folder or directly on the npm opendraw page https://www.npmjs.com/package/ng-opendraw.
+You can integrate opendraw in your project using `npm i ng-opendraw --save`. For more documentation about opendraw check out the readme in the projects/opendraw folder or directly on the npm opendraw page https://www.npmjs.com/package/@erospingani1/ng-opendraw.
 
 # Demo OpenDraw
 
