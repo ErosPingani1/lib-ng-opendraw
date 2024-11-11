@@ -3,11 +3,17 @@
 
 Opendraw is an angular component that manipulates the canvas for drawing content across all devices. It supports touch/pen/mouse devices. It uses pointerEvent to detect the device.
 
-This version was updated to be used with Angular 16+.
+This version was updated to be compatible with Angular 16+.
 
 # Demo
 
-Try it out here: [DEMO](https://rloris.github.io/lib-ng-opendraw/) (original repo) or clone this [repo](https://github.com/ErosPingani1/lib-ng-opendraw) and run `ng serve` for a full demo of opendraw. Angular version 16.2.16.
+Try it out here: [DEMO](https://rloris.github.io/lib-ng-opendraw/) (original repo) or clone this [repo](https://github.com/ErosPingani1/lib-ng-opendraw) and run `ng serve` for a full demo of opendraw.
+
+# Versions
+
+- 1.0.1: Angular 16.2.16
+
+- 2.0.0: Angular 17.3.12
 
 # Features
 
@@ -70,11 +76,6 @@ Check out the repo for a full demo code [here](https://github.com/RLoris/lib-ng-
 | -------- | ---- | ---- |
 | (outputEvent) | string | Emits the exported drawing image |
 | (errorEvent) | any | Emits all errors |
-
-# To-Do / Improvements
-
--   Layers (add|remove|select|hide)
--   Undo / Redo actions
 
 # NPM
 
